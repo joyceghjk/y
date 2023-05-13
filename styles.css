@@ -1,0 +1,76 @@
+p1 {
+    font-family: "Alice", serif;
+  }body 
+ 
+  h6 {
+    font-size: 1.190em; /* 40px/16=2.5em */
+  }
+  
+
+  p {
+    font-size: 1.675em; /* 14px/16=0.875em */
+  }
+
+  p2 {
+    font-size: 1.300em; /* 14px/16=0.875em */
+  }
+
+  p.big {
+    line-height: 1.8;
+  }
+
+  p.bbig {
+    line-height: 1.4;
+  }
+
+
+/*COLOR START  */
+#B200{
+    color: #40389b;;
+}
+#B150{
+    color: #8716e0;;
+}
+#B200{
+    color:#191919;
+}
+#B150{
+    color:#fcfcfc; 
+}
+#B200{
+    color: #282220;
+}
+/*COLOR END */
+
+/* DIV BOX Color Start */
+body{
+background-color: #191919;
+
+}
+#BoxCategory_1{
+    background-color: #1a1a1a;
+}
+
+#BoxCategory_2{
+    background-color: #eeeff7
+}
+
+#BoxCategory_3{
+    background-color: #282220;
+}
+
+#BoxCategory_4{
+    background-color: #D7DA5B;
+}
+
+#BoxCategory_5{
+    background-color: #D50101;
+}
+/*DIV BOX Color End*/
+
+.halo{
+   
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
